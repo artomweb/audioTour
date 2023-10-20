@@ -1,6 +1,6 @@
 # AUDIO TOUR
 
-This is a website that I host [HERE](audio.artomweb.com) which I made to host an audio tour where QR codes are used to get each audio track.
+This is a website that I host [HERE](https://audio.artomweb.com) which I made to host an audio tour where QR codes are used to get each audio track.
 
 I made a working version in less than an hour.
 

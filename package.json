@@ -1,0 +1,26 @@
+{
+  "name": "audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createHash.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artomweb/audio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artomweb/audio/issues"
+  },
+  "homepage": "https://github.com/artomweb/audio#readme",
+  "dependencies": {
+    "music-metadata": "^8.1.4",
+    "mutag": "^2.0.7"
+  }
+}
